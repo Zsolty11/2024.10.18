@@ -1,0 +1,39 @@
+{
+    "harcosok": [
+        {
+            "nev": "király",
+            "hp": 100,
+            "inventory": ["Kard"]
+        },
+        {
+            "nev": "Jani",
+            "hp": 300,
+            "inventory": ["Bézbózütő"]
+        }
+    
+    
+    ],
+
+    "ellensegek": [
+        {
+            "nev": "Goblin",
+            "hp": 50,
+            "loot": {
+                "nev": "Gyógyital",
+                "tipus": "gyógyító",
+                "hatas": 20,
+                "ritkasag": "közönséges"
+            }
+        },
+        {
+            "nev": "Ork",
+            "hp": 80,
+            "loot": {
+                "nev": "Pajzs",
+                "tipus": "páncél",
+                "hatas": 10,
+                "ritkasag": "ritka"
+            }
+        }
+    ]
+}
